@@ -1,2 +1,8 @@
 stripe:
   enabled: false
+
+spring:
+  # SonarQube server configuration
+  sonar:
+    host:
+      url: http://52.15.182.125:9000
